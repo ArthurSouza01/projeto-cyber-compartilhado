@@ -1,3 +1,5 @@
+  PARA UTILIZAR SERÁ NECESSÁRIO COLOCAR A SYA API-KEY DO VIRUSTOTAL !
+  
   Esse é um projeto que está sendo desenvolvido durante o curso de graduação em defesa cibernética.
 
   A idéia é simples: centralizar funcionalidades de diversas ferramentas para que um usuário leigo tenha a capacidade de se proteger contra possíveis ameaças digitais.
