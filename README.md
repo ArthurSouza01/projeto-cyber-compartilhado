@@ -1,4 +1,4 @@
-  PARA UTILIZAR SERÁ NECESSÁRIO COLOCAR A SYA API-KEY DO VIRUSTOTAL !
+  -> PARA UTILIZAR SERÁ NECESSÁRIO COLOCAR A SUA API-KEY DO VIRUSTOTAL !
   
   Esse é um projeto que está sendo desenvolvido durante o curso de graduação em defesa cibernética.
 
